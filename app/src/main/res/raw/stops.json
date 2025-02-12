@@ -1,0 +1,58 @@
+{
+  "stops": [
+    {
+      "name": "New York",
+      "distanceFromPrevious": 0,
+      "visaRequired": false,
+      "transitTime": 0
+    },
+    {
+      "name": "London",
+      "distanceFromPrevious": 5585,
+      "visaRequired": true,
+      "transitTime": 120
+    },
+    {
+      "name": "Dubai",
+      "distanceFromPrevious": 5502,
+      "visaRequired": true,
+      "transitTime": 180
+    },
+    {
+      "name": "Singapore",
+      "distanceFromPrevious": 5883,
+      "visaRequired": true,
+      "transitTime": 90
+    },
+    {
+      "name": "Sydney",
+      "distanceFromPrevious": 6316,
+      "visaRequired": true,
+      "transitTime": 15
+    },
+    {
+      "name": "Tokyo",
+      "distanceFromPrevious": 4800,
+      "visaRequired": false,
+      "transitTime": 240
+    },
+    {
+      "name": "Paris",
+      "distanceFromPrevious": 3420,
+      "visaRequired": true,
+      "transitTime": 110
+    },
+    {
+      "name": "Rome",
+      "distanceFromPrevious": 1400,
+      "visaRequired": false,
+      "transitTime": 100
+    },
+    {
+      "name": "Berlin",
+      "distanceFromPrevious": 800,
+      "visaRequired": false,
+      "transitTime": 80
+    }
+  ]
+}

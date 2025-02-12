@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Your existing color definitions might be here -->
+
+    <!-- Add these new colors for the journey tracker -->
+    <color name="black">#000000</color>
+    <color name="current_stop">#E3F2FD</color>
+    <color name="past_stop">#F5F5F5</color>
+    <color name="future_stop">#FFFFFF</color>
+    <color name="light_violet">#E8DAFF</color>
+    <color name="medium_violet">#AEA2C3</color>
+    <color name="dark_violet">#B388FF</color>
+</resources>
