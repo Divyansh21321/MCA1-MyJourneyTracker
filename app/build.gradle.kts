@@ -41,6 +41,19 @@ android {
 
 dependencies {
 
+    // Core dependencies
+    implementation("androidx.core:core-ktx:1.9.0")
+    implementation("androidx.activity:activity-compose:1.6.1")
+
+    // Jetpack Compose UI
+    implementation("androidx.compose.ui:ui:1.4.3")
+    implementation("androidx.compose.material:material:1.4.3")
+    implementation("androidx.compose.ui:ui-tooling-preview:1.4.3")
+    debugImplementation("androidx.compose.ui:ui-tooling:1.4.3")
+
+    // Optional: for Compose icons (if needed)
+    implementation("androidx.compose.material:material-icons-core:1.4.3")
+    implementation("androidx.compose.material:material-icons-extended:1.4.3")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
